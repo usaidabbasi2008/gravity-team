@@ -2,3 +2,10 @@
     background-image: url(img/button_before\ \(1\).png);
     background-size: cover;
 }
+.bgj{
+    background-image: url(img/div\ \(6\).png);
+    background-size:cover;
+}
+.width{
+width: 40% !important;
+}
